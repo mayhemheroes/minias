@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-minias
+target: minias
+
+cmds:
+  - cmd: /minias/minias @@
+    filepath: test.s
