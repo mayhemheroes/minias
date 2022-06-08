@@ -1,0 +1,6 @@
+project: minias
+target: minias
+
+cmds:
+  - cmd: /minias/minias test.s
+    filepath: test.s
